@@ -1,0 +1,32 @@
+Make a simple landing page showing the teams stats and all that kind of stuff a landing page would have.
+
+-------Pages------
+> Home page
+
+> News
+    > Socials
+    > Blog
+
+> Team info //About
+    > About us
+    > History
+        > Transfers
+        > Tournament history
+
+> Matches
+    > Tournaments
+
+> Contact
+    > Open spaces
+
+> Teams
+    > Players
+        >*Players*
+
+
+
+----IDEAS FROM-----
+https://sites.google.com/view/east-cs2-team/matches
+https://sites.google.com/view/gamerswatchtv/rankings
+https://sites.google.com/d/1xUUWtMJmC93BAdfaFc59Bz0CgU72G5-F/p/1JiiV4DRbGdw5uqWpQnuAL_S5f0V2WAWD/edit
+https://sites.google.com/d/16gu4K5ipp3EZ1lKV-RmAllOO2qxBQuZ5/p/1SNpfKzQjMjST-OGcvo0IBCXLHhU4yJ3C/edit
